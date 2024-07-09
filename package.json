@@ -2,7 +2,7 @@
   "name": "pc-render",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://brandonkylely.github.io/r3f-pc-demo",
+  "homepage": "https://brandonkylely.github.io/r3f-ecommerce-demo",
   "type": "module",
   "scripts": {
     "dev": "vite",
